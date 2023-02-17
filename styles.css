@@ -1,2 +1,10 @@
 
 /* Your CSS Code here. */
+.row-12{
+    display: flex;
+	width: 100%;
+}
+.col-sm-12{
+    flex-direction: row;
+    justify-content: space-between;
+}

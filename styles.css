@@ -1,6 +1,6 @@
 
 /* Your CSS Code here. */
-.row-12{
+.fluid{
     display: flex;
 	width: 100%;
 }
